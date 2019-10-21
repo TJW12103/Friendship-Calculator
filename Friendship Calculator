@@ -6,7 +6,7 @@ window = tk.Tk()
 
 def phrase_generator():
     phrases = [" You make a great team", " You're best friends", " Your're like family", " Get together already", " You "
-                                                                                                             "secretly hate each other", " Cut each other off, NOW!"]
+                                                                                                             "secretly hate each other", " Cut each other off, NOW!", "You'll die for each other"]
 
     name = str(entry_field1.get())
     name2 = str(entry_field2.get())
